@@ -2,7 +2,7 @@
 
 Comparing billing cycles Oct 2024–Sep 2025 ("2024–2025") vs Oct 2025–Sep 2026 ("2025–2026"), aligned by cycle month.
 
-Chart: https://claude.ai/artifact/XZZMB7MgXsj2e2X1KiT9ac
+Interactive chart: https://claude.ai/artifact/XZZMB7MgXsj2e2X1KiT9ac
 Data: `data/electricity_usage.csv`
 
 ## Headline
@@ -10,6 +10,10 @@ Data: `data/electricity_usage.csv`
 - **2025–2026 total: 13,981 kWh**
 - **2024–2025 total: 13,216 kWh**
 - **Change: +765 kWh (+5.8%)** — usage is up year over year.
+
+![Annual total, 2024–2025 vs 2025–2026](charts/annual_total.png)
+
+![Monthly kWh consumption, year over year](charts/monthly_comparison.png)
 
 ## Month-by-month
 
